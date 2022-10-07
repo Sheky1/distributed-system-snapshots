@@ -1,0 +1,946 @@
+13:16:42 - Starting servent [5|localhost|1600]
+13:16:42 - Pausing for 1000 ms
+13:16:43 - Pausing for 5000 ms
+13:16:43 - Sending message [5|42|1|TRANSACTION|4]
+13:16:43 - Sending message [5|41|6|TRANSACTION|6]
+13:16:43 - Sending message [5|27|7|TRANSACTION|4]
+13:16:43 - Sending message [5|51|6|TRANSACTION|4]
+13:16:43 - Sending message [5|53|2|TRANSACTION|6]
+13:16:43 - Current amount after removing: 999
+13:16:43 - Got message [1|22|4|TRANSACTION|5]
+13:16:43 - Sending message [5|48|10|TRANSACTION|4]
+13:16:43 - Sending message [5|26|6|TRANSACTION|6]
+13:16:43 - Sending message [5|16|9|TRANSACTION|1]
+13:16:43 - Sending message [5|68|6|TRANSACTION|1]
+13:16:43 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=0, 4=1, 6=0}, HistoryKey{initiator=4, version=0}={1=0, 4=1, 6=0}, HistoryKey{initiator=2, version=0}={1=0, 4=1, 6=0}}
+13:16:43 - Current amount after removing: 993
+13:16:43 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=6, 4=1, 6=0}, HistoryKey{initiator=4, version=0}={1=6, 4=1, 6=0}, HistoryKey{initiator=2, version=0}={1=6, 4=1, 6=0}}
+13:16:43 - Sending message [5|52|7|TRANSACTION|1]
+13:16:43 - Current amount after removing: 984
+13:16:43 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=15, 4=1, 6=0}, HistoryKey{initiator=4, version=0}={1=15, 4=1, 6=0}, HistoryKey{initiator=2, version=0}={1=15, 4=1, 6=0}}
+13:16:43 - Current amount after removing: 978
+13:16:43 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=15, 4=1, 6=6}, HistoryKey{initiator=4, version=0}={1=15, 4=1, 6=6}, HistoryKey{initiator=2, version=0}={1=15, 4=1, 6=6}}
+13:16:43 - Current amount after removing: 968
+13:16:43 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=15, 4=11, 6=6}, HistoryKey{initiator=4, version=0}={1=15, 4=11, 6=6}, HistoryKey{initiator=2, version=0}={1=15, 4=11, 6=6}}
+13:16:43 - Working on the message [1|22|4|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:43 - Sending message [5|32|10|TRANSACTION|6]
+13:16:43 - Current amount after removing: 966
+13:16:43 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=15, 4=11, 6=8}, HistoryKey{initiator=4, version=0}={1=15, 4=11, 6=8}, HistoryKey{initiator=2, version=0}={1=15, 4=11, 6=8}}
+13:16:43 - Sending message [5|38|3|TRANSACTION|6]
+13:16:43 - Current amount after removing: 960
+13:16:43 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=15, 4=17, 6=8}, HistoryKey{initiator=4, version=0}={1=15, 4=17, 6=8}, HistoryKey{initiator=2, version=0}={1=15, 4=17, 6=8}}
+13:16:43 - Current amount after removing: 953
+13:16:43 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=15, 4=24, 6=8}, HistoryKey{initiator=4, version=0}={1=15, 4=24, 6=8}, HistoryKey{initiator=2, version=0}={1=15, 4=24, 6=8}}
+13:16:43 - Current amount after removing: 947
+13:16:43 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=15, 4=24, 6=14}, HistoryKey{initiator=4, version=0}={1=15, 4=24, 6=14}, HistoryKey{initiator=2, version=0}={1=15, 4=24, 6=14}}
+13:16:43 - Current amount after removing: 944
+13:16:43 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=15, 4=24, 6=17}, HistoryKey{initiator=4, version=0}={1=15, 4=24, 6=17}, HistoryKey{initiator=2, version=0}={1=15, 4=24, 6=17}}
+13:16:43 - Sending message [5|60|2|TRANSACTION|1]
+13:16:43 - Current amount after removing: 934
+13:16:43 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=15, 4=24, 6=27}, HistoryKey{initiator=4, version=0}={1=15, 4=24, 6=27}, HistoryKey{initiator=2, version=0}={1=15, 4=24, 6=27}}
+13:16:43 - Current amount after removing: 927
+13:16:43 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=22, 4=24, 6=27}, HistoryKey{initiator=4, version=0}={1=22, 4=24, 6=27}, HistoryKey{initiator=2, version=0}={1=22, 4=24, 6=27}}
+13:16:43 - Current amount after removing: 925
+13:16:43 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=24, 4=24, 6=27}, HistoryKey{initiator=4, version=0}={1=24, 4=24, 6=27}, HistoryKey{initiator=2, version=0}={1=24, 4=24, 6=27}}
+13:16:43 - Sending message [5|49|8|TRANSACTION|1]
+13:16:43 - Current amount after removing: 917
+13:16:43 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=32, 4=24, 6=27}, HistoryKey{initiator=4, version=0}={1=32, 4=24, 6=27}, HistoryKey{initiator=2, version=0}={1=32, 4=24, 6=27}}
+13:16:43 - Sending message [5|45|3|TRANSACTION|1]
+13:16:43 - Current amount after removing: 914
+13:16:43 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=35, 4=24, 6=27}, HistoryKey{initiator=4, version=0}={1=35, 4=24, 6=27}, HistoryKey{initiator=2, version=0}={1=35, 4=24, 6=27}}
+13:16:43 - Sending message [5|22|5|TRANSACTION|1]
+13:16:43 - Current amount after adding: 918
+13:16:43 - Current amount after removing: 913
+13:16:43 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=40, 4=24, 6=27}, HistoryKey{initiator=4, version=0}={1=40, 4=24, 6=27}, HistoryKey{initiator=2, version=0}={1=40, 4=24, 6=27}}
+13:16:43 - Got message [6|83|5|TRANSACTION|5]
+13:16:43 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=4, 4=0, 6=0}, HistoryKey{initiator=4, version=0}={1=4, 4=0, 6=0}, HistoryKey{initiator=2, version=0}={1=4, 4=0, 6=0}}
+13:16:43 - Working on the message [6|83|5|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:43 - Current amount after adding: 918
+13:16:43 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=4, 4=0, 6=5}, HistoryKey{initiator=4, version=0}={1=4, 4=0, 6=5}, HistoryKey{initiator=2, version=0}={1=4, 4=0, 6=5}}
+13:16:43 - Got message [6|89|3|TRANSACTION|5]
+13:16:43 - Working on the message [6|89|3|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:43 - Current amount after adding: 921
+13:16:43 - Sending message [5|14|6|TRANSACTION|6]
+13:16:43 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=4, 4=0, 6=8}, HistoryKey{initiator=4, version=0}={1=4, 4=0, 6=8}, HistoryKey{initiator=2, version=0}={1=4, 4=0, 6=8}}
+13:16:43 - Got message [6|16|8|TRANSACTION|5]
+13:16:43 - Working on the message [6|16|8|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:43 - Got message [1|38|3|TRANSACTION|5]
+13:16:43 - Current amount after adding: 929
+13:16:43 - Current amount after removing: 923
+13:16:43 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=40, 4=24, 6=33}, HistoryKey{initiator=4, version=0}={1=40, 4=24, 6=33}, HistoryKey{initiator=2, version=0}={1=40, 4=24, 6=33}}
+13:16:43 - Working on the message [1|38|3|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:43 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=4, 4=0, 6=16}, HistoryKey{initiator=4, version=0}={1=4, 4=0, 6=16}, HistoryKey{initiator=2, version=0}={1=4, 4=0, 6=16}}
+13:16:43 - Current amount after adding: 926
+13:16:43 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=7, 4=0, 6=16}, HistoryKey{initiator=4, version=0}={1=7, 4=0, 6=16}, HistoryKey{initiator=2, version=0}={1=7, 4=0, 6=16}}
+13:16:43 - Got message [1|16|2|TRANSACTION|5]
+13:16:43 - Working on the message [1|16|2|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:43 - Current amount after adding: 928
+13:16:43 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=9, 4=0, 6=16}, HistoryKey{initiator=4, version=0}={1=9, 4=0, 6=16}, HistoryKey{initiator=2, version=0}={1=9, 4=0, 6=16}}
+13:16:43 - Got message [1|52|10|TRANSACTION|5]
+13:16:43 - Working on the message [1|52|10|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:43 - Current amount after adding: 938
+13:16:43 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=19, 4=0, 6=16}, HistoryKey{initiator=4, version=0}={1=19, 4=0, 6=16}, HistoryKey{initiator=2, version=0}={1=19, 4=0, 6=16}}
+13:16:43 - Sending message [5|58|5|TRANSACTION|1]
+13:16:43 - Got message [6|92|4|TRANSACTION|5]
+13:16:43 - Current amount after removing: 933
+13:16:43 - Sending message [5|44|3|TRANSACTION|6]
+13:16:43 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=45, 4=24, 6=33}, HistoryKey{initiator=4, version=0}={1=45, 4=24, 6=33}, HistoryKey{initiator=2, version=0}={1=45, 4=24, 6=33}}
+13:16:43 - Current amount after removing: 930
+13:16:43 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=45, 4=24, 6=36}, HistoryKey{initiator=4, version=0}={1=45, 4=24, 6=36}, HistoryKey{initiator=2, version=0}={1=45, 4=24, 6=36}}
+13:16:43 - Working on the message [6|92|4|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:43 - Current amount after adding: 934
+13:16:43 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=19, 4=0, 6=20}, HistoryKey{initiator=4, version=0}={1=19, 4=0, 6=20}, HistoryKey{initiator=2, version=0}={1=19, 4=0, 6=20}}
+13:16:43 - Got message [6|42|9|TRANSACTION|5]
+13:16:43 - Working on the message [6|42|9|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:43 - Current amount after adding: 943
+13:16:43 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=19, 4=0, 6=29}, HistoryKey{initiator=4, version=0}={1=19, 4=0, 6=29}, HistoryKey{initiator=2, version=0}={1=19, 4=0, 6=29}}
+13:16:43 - Got message [1|98|10|TRANSACTION|5]
+13:16:43 - Working on the message [1|98|10|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:43 - Current amount after adding: 953
+13:16:43 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=29, 4=0, 6=29}, HistoryKey{initiator=4, version=0}={1=29, 4=0, 6=29}, HistoryKey{initiator=2, version=0}={1=29, 4=0, 6=29}}
+13:16:43 - Got message [6|94|5|TRANSACTION|5]
+13:16:43 - Working on the message [6|94|5|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:43 - Current amount after adding: 958
+13:16:43 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=29, 4=0, 6=34}, HistoryKey{initiator=4, version=0}={1=29, 4=0, 6=34}, HistoryKey{initiator=2, version=0}={1=29, 4=0, 6=34}}
+13:16:43 - Sending message [5|71|7|TRANSACTION|6]
+13:16:43 - Current amount after removing: 951
+13:16:43 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=45, 4=24, 6=43}, HistoryKey{initiator=4, version=0}={1=45, 4=24, 6=43}, HistoryKey{initiator=2, version=0}={1=45, 4=24, 6=43}}
+13:16:43 - Sending message [5|2|2|TRANSACTION|1]
+13:16:44 - Current amount after removing: 949
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=47, 4=24, 6=43}, HistoryKey{initiator=4, version=0}={1=47, 4=24, 6=43}, HistoryKey{initiator=2, version=0}={1=47, 4=24, 6=43}}
+13:16:44 - Got message [1|24|3|TRANSACTION|5]
+13:16:44 - Working on the message [1|24|3|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 952
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=32, 4=0, 6=34}, HistoryKey{initiator=4, version=0}={1=32, 4=0, 6=34}, HistoryKey{initiator=2, version=0}={1=32, 4=0, 6=34}}
+13:16:44 - Got message [6|66|4|TRANSACTION|5]
+13:16:44 - Working on the message [6|66|4|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 956
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=32, 4=0, 6=38}, HistoryKey{initiator=4, version=0}={1=32, 4=0, 6=38}, HistoryKey{initiator=2, version=0}={1=32, 4=0, 6=38}}
+13:16:44 - Sending message [5|12|4|TRANSACTION|4]
+13:16:44 - Sending message [5|64|4|TRANSACTION|6]
+13:16:44 - Current amount after removing: 952
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=47, 4=28, 6=43}, HistoryKey{initiator=4, version=0}={1=47, 4=28, 6=43}, HistoryKey{initiator=2, version=0}={1=47, 4=28, 6=43}}
+13:16:44 - Current amount after removing: 948
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=47, 4=28, 6=47}, HistoryKey{initiator=4, version=0}={1=47, 4=28, 6=47}, HistoryKey{initiator=2, version=0}={1=47, 4=28, 6=47}}
+13:16:44 - Got message [6|72|3|TRANSACTION|5]
+13:16:44 - Working on the message [6|72|3|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 951
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=32, 4=0, 6=41}, HistoryKey{initiator=4, version=0}={1=32, 4=0, 6=41}, HistoryKey{initiator=2, version=0}={1=32, 4=0, 6=41}}
+13:16:44 - Sending message [5|13|9|TRANSACTION|1]
+13:16:44 - Current amount after removing: 942
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=56, 4=28, 6=47}, HistoryKey{initiator=4, version=0}={1=56, 4=28, 6=47}, HistoryKey{initiator=2, version=0}={1=56, 4=28, 6=47}}
+13:16:44 - Sending message [5|6|2|TRANSACTION|4]
+13:16:44 - Current amount after removing: 940
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=56, 4=30, 6=47}, HistoryKey{initiator=4, version=0}={1=56, 4=30, 6=47}, HistoryKey{initiator=2, version=0}={1=56, 4=30, 6=47}}
+13:16:44 - Got message [6|59|3|TRANSACTION|5]
+13:16:44 - Working on the message [6|59|3|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 943
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=32, 4=0, 6=44}, HistoryKey{initiator=4, version=0}={1=32, 4=0, 6=44}, HistoryKey{initiator=2, version=0}={1=32, 4=0, 6=44}}
+13:16:44 - Got message [1|44|9|TRANSACTION|5]
+13:16:44 - Working on the message [1|44|9|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 952
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=41, 4=0, 6=44}, HistoryKey{initiator=4, version=0}={1=41, 4=0, 6=44}, HistoryKey{initiator=2, version=0}={1=41, 4=0, 6=44}}
+13:16:44 - Got message [6|35|1|TRANSACTION|5]
+13:16:44 - Working on the message [6|35|1|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 953
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=41, 4=0, 6=45}, HistoryKey{initiator=4, version=0}={1=41, 4=0, 6=45}, HistoryKey{initiator=2, version=0}={1=41, 4=0, 6=45}}
+13:16:44 - Sending message [5|7|6|TRANSACTION|4]
+13:16:44 - Current amount after removing: 947
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=56, 4=36, 6=47}, HistoryKey{initiator=4, version=0}={1=56, 4=36, 6=47}, HistoryKey{initiator=2, version=0}={1=56, 4=36, 6=47}}
+13:16:44 - Sending message [5|50|8|TRANSACTION|4]
+13:16:44 - Current amount after removing: 939
+13:16:44 - Got message [1|32|5|TRANSACTION|5]
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=56, 4=44, 6=47}, HistoryKey{initiator=4, version=0}={1=56, 4=44, 6=47}, HistoryKey{initiator=2, version=0}={1=56, 4=44, 6=47}}
+13:16:44 - Working on the message [1|32|5|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 944
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=46, 4=0, 6=45}, HistoryKey{initiator=4, version=0}={1=46, 4=0, 6=45}, HistoryKey{initiator=2, version=0}={1=46, 4=0, 6=45}}
+13:16:44 - Sending message [5|63|7|TRANSACTION|6]
+13:16:44 - Sending message [5|17|7|TRANSACTION|6]
+13:16:44 - Current amount after removing: 937
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=56, 4=44, 6=54}, HistoryKey{initiator=4, version=0}={1=56, 4=44, 6=54}, HistoryKey{initiator=2, version=0}={1=56, 4=44, 6=54}}
+13:16:44 - Current amount after removing: 930
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=56, 4=44, 6=61}, HistoryKey{initiator=4, version=0}={1=56, 4=44, 6=61}, HistoryKey{initiator=2, version=0}={1=56, 4=44, 6=61}}
+13:16:44 - Got message [6|73|4|TRANSACTION|5]
+13:16:44 - Working on the message [6|73|4|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 934
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=46, 4=0, 6=49}, HistoryKey{initiator=4, version=0}={1=46, 4=0, 6=49}, HistoryKey{initiator=2, version=0}={1=46, 4=0, 6=49}}
+13:16:44 - Sending message [5|4|7|TRANSACTION|1]
+13:16:44 - Current amount after removing: 927
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=63, 4=44, 6=61}, HistoryKey{initiator=4, version=0}={1=63, 4=44, 6=61}, HistoryKey{initiator=2, version=0}={1=63, 4=44, 6=61}}
+13:16:44 - Sending message [5|15|7|TRANSACTION|1]
+13:16:44 - Got message [6|52|3|TRANSACTION|5]
+13:16:44 - Current amount after removing: 920
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=70, 4=44, 6=61}, HistoryKey{initiator=4, version=0}={1=70, 4=44, 6=61}, HistoryKey{initiator=2, version=0}={1=70, 4=44, 6=61}}
+13:16:44 - Working on the message [6|52|3|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 923
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=46, 4=0, 6=52}, HistoryKey{initiator=4, version=0}={1=46, 4=0, 6=52}, HistoryKey{initiator=2, version=0}={1=46, 4=0, 6=52}}
+13:16:44 - Got message [6|98|5|TRANSACTION|5]
+13:16:44 - Working on the message [6|98|5|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 928
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=46, 4=0, 6=57}, HistoryKey{initiator=4, version=0}={1=46, 4=0, 6=57}, HistoryKey{initiator=2, version=0}={1=46, 4=0, 6=57}}
+13:16:44 - Got message [1|60|6|TRANSACTION|5]
+13:16:44 - Working on the message [1|60|6|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 934
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=52, 4=0, 6=57}, HistoryKey{initiator=4, version=0}={1=52, 4=0, 6=57}, HistoryKey{initiator=2, version=0}={1=52, 4=0, 6=57}}
+13:16:44 - Sending message [5|19|7|TRANSACTION|1]
+13:16:44 - Current amount after removing: 927
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=77, 4=44, 6=61}, HistoryKey{initiator=4, version=0}={1=77, 4=44, 6=61}, HistoryKey{initiator=2, version=0}={1=77, 4=44, 6=61}}
+13:16:44 - Got message [1|20|9|TRANSACTION|5]
+13:16:44 - Working on the message [1|20|9|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 936
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=61, 4=0, 6=57}, HistoryKey{initiator=4, version=0}={1=61, 4=0, 6=57}, HistoryKey{initiator=2, version=0}={1=61, 4=0, 6=57}}
+13:16:44 - Sending message [5|73|10|TRANSACTION|6]
+13:16:44 - Current amount after removing: 926
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=77, 4=44, 6=71}, HistoryKey{initiator=4, version=0}={1=77, 4=44, 6=71}, HistoryKey{initiator=2, version=0}={1=77, 4=44, 6=71}}
+13:16:44 - Sending message [5|69|2|TRANSACTION|6]
+13:16:44 - Current amount after removing: 924
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=77, 4=44, 6=73}, HistoryKey{initiator=4, version=0}={1=77, 4=44, 6=73}, HistoryKey{initiator=2, version=0}={1=77, 4=44, 6=73}}
+13:16:44 - Sending message [5|40|5|TRANSACTION|6]
+13:16:44 - Got message [6|55|10|TRANSACTION|5]
+13:16:44 - Current amount after removing: 919
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=77, 4=44, 6=78}, HistoryKey{initiator=4, version=0}={1=77, 4=44, 6=78}, HistoryKey{initiator=2, version=0}={1=77, 4=44, 6=78}}
+13:16:44 - Working on the message [6|55|10|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 929
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=61, 4=0, 6=67}, HistoryKey{initiator=4, version=0}={1=61, 4=0, 6=67}, HistoryKey{initiator=2, version=0}={1=61, 4=0, 6=67}}
+13:16:44 - Sending message [5|31|9|TRANSACTION|1]
+13:16:44 - Sending message [5|10|7|TRANSACTION|6]
+13:16:44 - Sending message [5|8|4|TRANSACTION|6]
+13:16:44 - Current amount after removing: 920
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=86, 4=44, 6=78}, HistoryKey{initiator=4, version=0}={1=86, 4=44, 6=78}, HistoryKey{initiator=2, version=0}={1=86, 4=44, 6=78}}
+13:16:44 - Got message [1|99|8|TRANSACTION|5]
+13:16:44 - Current amount after removing: 916
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=86, 4=44, 6=82}, HistoryKey{initiator=4, version=0}={1=86, 4=44, 6=82}, HistoryKey{initiator=2, version=0}={1=86, 4=44, 6=82}}
+13:16:44 - Current amount after removing: 909
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=86, 4=44, 6=89}, HistoryKey{initiator=4, version=0}={1=86, 4=44, 6=89}, HistoryKey{initiator=2, version=0}={1=86, 4=44, 6=89}}
+13:16:44 - Working on the message [1|99|8|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 917
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=69, 4=0, 6=67}, HistoryKey{initiator=4, version=0}={1=69, 4=0, 6=67}, HistoryKey{initiator=2, version=0}={1=69, 4=0, 6=67}}
+13:16:44 - Sending message [5|0|7|TRANSACTION|1]
+13:16:44 - Current amount after removing: 910
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=93, 4=44, 6=89}, HistoryKey{initiator=4, version=0}={1=93, 4=44, 6=89}, HistoryKey{initiator=2, version=0}={1=93, 4=44, 6=89}}
+13:16:44 - Sending message [5|43|8|TRANSACTION|1]
+13:16:44 - Current amount after removing: 902
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=101, 4=44, 6=89}, HistoryKey{initiator=4, version=0}={1=101, 4=44, 6=89}, HistoryKey{initiator=2, version=0}={1=101, 4=44, 6=89}}
+13:16:44 - Sending message [5|65|3|TRANSACTION|4]
+13:16:44 - Current amount after removing: 899
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=101, 4=47, 6=89}, HistoryKey{initiator=4, version=0}={1=101, 4=47, 6=89}, HistoryKey{initiator=2, version=0}={1=101, 4=47, 6=89}}
+13:16:44 - Sending message [5|29|6|TRANSACTION|6]
+13:16:44 - Sending message [5|25|2|TRANSACTION|6]
+13:16:44 - Current amount after removing: 893
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=101, 4=47, 6=95}, HistoryKey{initiator=4, version=0}={1=101, 4=47, 6=95}, HistoryKey{initiator=2, version=0}={1=101, 4=47, 6=95}}
+13:16:44 - Current amount after removing: 891
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=101, 4=47, 6=97}, HistoryKey{initiator=4, version=0}={1=101, 4=47, 6=97}, HistoryKey{initiator=2, version=0}={1=101, 4=47, 6=97}}
+13:16:44 - Sending message [5|39|4|TRANSACTION|4]
+13:16:44 - Got message [6|86|9|TRANSACTION|5]
+13:16:44 - Current amount after removing: 887
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=101, 4=51, 6=97}, HistoryKey{initiator=4, version=0}={1=101, 4=51, 6=97}, HistoryKey{initiator=2, version=0}={1=101, 4=51, 6=97}}
+13:16:44 - Sending message [5|24|9|TRANSACTION|4]
+13:16:44 - Working on the message [6|86|9|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 896
+13:16:44 - Current amount after removing: 887
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=101, 4=60, 6=97}, HistoryKey{initiator=4, version=0}={1=101, 4=60, 6=97}, HistoryKey{initiator=2, version=0}={1=101, 4=60, 6=97}}
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=69, 4=0, 6=76}, HistoryKey{initiator=4, version=0}={1=69, 4=0, 6=76}, HistoryKey{initiator=2, version=0}={1=69, 4=0, 6=76}}
+13:16:44 - Got message [6|15|4|TRANSACTION|5]
+13:16:44 - Working on the message [6|15|4|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 891
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=69, 4=0, 6=80}, HistoryKey{initiator=4, version=0}={1=69, 4=0, 6=80}, HistoryKey{initiator=2, version=0}={1=69, 4=0, 6=80}}
+13:16:44 - Sending message [5|74|7|TRANSACTION|6]
+13:16:44 - Current amount after removing: 884
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=101, 4=60, 6=104}, HistoryKey{initiator=4, version=0}={1=101, 4=60, 6=104}, HistoryKey{initiator=2, version=0}={1=101, 4=60, 6=104}}
+13:16:44 - Got message [6|39|10|TRANSACTION|5]
+13:16:44 - Working on the message [6|39|10|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 894
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=69, 4=0, 6=90}, HistoryKey{initiator=4, version=0}={1=69, 4=0, 6=90}, HistoryKey{initiator=2, version=0}={1=69, 4=0, 6=90}}
+13:16:44 - Sending message [5|18|3|TRANSACTION|4]
+13:16:44 - Current amount after removing: 891
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=101, 4=63, 6=104}, HistoryKey{initiator=4, version=0}={1=101, 4=63, 6=104}, HistoryKey{initiator=2, version=0}={1=101, 4=63, 6=104}}
+13:16:44 - Sending message [5|11|6|TRANSACTION|6]
+13:16:44 - Current amount after removing: 885
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=101, 4=63, 6=110}, HistoryKey{initiator=4, version=0}={1=101, 4=63, 6=110}, HistoryKey{initiator=2, version=0}={1=101, 4=63, 6=110}}
+13:16:44 - Got message [6|19|10|TRANSACTION|5]
+13:16:44 - Working on the message [6|19|10|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 895
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=69, 4=0, 6=100}, HistoryKey{initiator=4, version=0}={1=69, 4=0, 6=100}, HistoryKey{initiator=2, version=0}={1=69, 4=0, 6=100}}
+13:16:44 - Sending message [5|46|9|TRANSACTION|1]
+13:16:44 - Current amount after removing: 886
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=110, 4=63, 6=110}, HistoryKey{initiator=4, version=0}={1=110, 4=63, 6=110}, HistoryKey{initiator=2, version=0}={1=110, 4=63, 6=110}}
+13:16:44 - Sending message [5|35|6|TRANSACTION|4]
+13:16:44 - Current amount after removing: 880
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=110, 4=69, 6=110}, HistoryKey{initiator=4, version=0}={1=110, 4=69, 6=110}, HistoryKey{initiator=2, version=0}={1=110, 4=69, 6=110}}
+13:16:44 - Sending message [5|72|4|TRANSACTION|4]
+13:16:44 - Current amount after removing: 876
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=110, 4=73, 6=110}, HistoryKey{initiator=4, version=0}={1=110, 4=73, 6=110}, HistoryKey{initiator=2, version=0}={1=110, 4=73, 6=110}}
+13:16:44 - Sending message [5|55|8|TRANSACTION|6]
+13:16:44 - Sending message [5|59|8|TRANSACTION|4]
+13:16:44 - Current amount after removing: 868
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=110, 4=73, 6=118}, HistoryKey{initiator=4, version=0}={1=110, 4=73, 6=118}, HistoryKey{initiator=2, version=0}={1=110, 4=73, 6=118}}
+13:16:44 - Current amount after removing: 860
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=110, 4=81, 6=118}, HistoryKey{initiator=4, version=0}={1=110, 4=81, 6=118}, HistoryKey{initiator=2, version=0}={1=110, 4=81, 6=118}}
+13:16:44 - Got message [1|64|7|TRANSACTION|5]
+13:16:44 - Working on the message [1|64|7|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 867
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=76, 4=0, 6=100}, HistoryKey{initiator=4, version=0}={1=76, 4=0, 6=100}, HistoryKey{initiator=2, version=0}={1=76, 4=0, 6=100}}
+13:16:44 - Got message [1|67|8|TRANSACTION|5]
+13:16:44 - Working on the message [1|67|8|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 875
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=84, 4=0, 6=100}, HistoryKey{initiator=4, version=0}={1=84, 4=0, 6=100}, HistoryKey{initiator=2, version=0}={1=84, 4=0, 6=100}}
+13:16:44 - Sending message [5|47|5|TRANSACTION|6]
+13:16:44 - Current amount after removing: 870
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=110, 4=81, 6=123}, HistoryKey{initiator=4, version=0}={1=110, 4=81, 6=123}, HistoryKey{initiator=2, version=0}={1=110, 4=81, 6=123}}
+13:16:44 - Got message [1|84|4|TRANSACTION|5]
+13:16:44 - Working on the message [1|84|4|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 874
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=88, 4=0, 6=100}, HistoryKey{initiator=4, version=0}={1=88, 4=0, 6=100}, HistoryKey{initiator=2, version=0}={1=88, 4=0, 6=100}}
+13:16:44 - Sending message [5|62|1|TRANSACTION|6]
+13:16:44 - Current amount after removing: 873
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=110, 4=81, 6=124}, HistoryKey{initiator=4, version=0}={1=110, 4=81, 6=124}, HistoryKey{initiator=2, version=0}={1=110, 4=81, 6=124}}
+13:16:44 - Sending message [5|61|7|TRANSACTION|1]
+13:16:44 - Current amount after removing: 866
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=117, 4=81, 6=124}, HistoryKey{initiator=4, version=0}={1=117, 4=81, 6=124}, HistoryKey{initiator=2, version=0}={1=117, 4=81, 6=124}}
+13:16:44 - Sending message [5|28|3|TRANSACTION|1]
+13:16:44 - Current amount after removing: 863
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=120, 4=81, 6=124}, HistoryKey{initiator=4, version=0}={1=120, 4=81, 6=124}, HistoryKey{initiator=2, version=0}={1=120, 4=81, 6=124}}
+13:16:44 - Sending message [5|33|1|TRANSACTION|4]
+13:16:44 - Got message [6|13|9|TRANSACTION|5]
+13:16:44 - Current amount after removing: 862
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=120, 4=82, 6=124}, HistoryKey{initiator=4, version=0}={1=120, 4=82, 6=124}, HistoryKey{initiator=2, version=0}={1=120, 4=82, 6=124}}
+13:16:44 - Working on the message [6|13|9|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Got message [1|66|8|TRANSACTION|5]
+13:16:44 - Working on the message [1|66|8|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Sending message [5|1|1|TRANSACTION|1]
+13:16:44 - Current amount after adding: 871
+13:16:44 - Current amount after adding: 879
+13:16:44 - Got message [1|80|9|TRANSACTION|5]
+13:16:44 - Current amount after removing: 878
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=121, 4=82, 6=124}, HistoryKey{initiator=4, version=0}={1=121, 4=82, 6=124}, HistoryKey{initiator=2, version=0}={1=121, 4=82, 6=124}}
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=88, 4=0, 6=109}, HistoryKey{initiator=4, version=0}={1=88, 4=0, 6=109}, HistoryKey{initiator=2, version=0}={1=88, 4=0, 6=109}}
+13:16:44 - Working on the message [1|80|9|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=96, 4=0, 6=109}, HistoryKey{initiator=4, version=0}={1=96, 4=0, 6=109}, HistoryKey{initiator=2, version=0}={1=96, 4=0, 6=109}}
+13:16:44 - Current amount after adding: 887
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=105, 4=0, 6=109}, HistoryKey{initiator=4, version=0}={1=105, 4=0, 6=109}, HistoryKey{initiator=2, version=0}={1=105, 4=0, 6=109}}
+13:16:44 - Got message [1|86|8|TRANSACTION|5]
+13:16:44 - Working on the message [1|86|8|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Sending message [5|20|4|TRANSACTION|4]
+13:16:44 - Sending message [5|67|4|TRANSACTION|1]
+13:16:44 - Current amount after adding: 895
+13:16:44 - Sending message [5|57|4|TRANSACTION|4]
+13:16:44 - Current amount after removing: 891
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=121, 4=86, 6=124}, HistoryKey{initiator=4, version=0}={1=121, 4=86, 6=124}, HistoryKey{initiator=2, version=0}={1=121, 4=86, 6=124}}
+13:16:44 - Got message [6|33|9|TRANSACTION|5]
+13:16:44 - Current amount after removing: 887
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=125, 4=86, 6=124}, HistoryKey{initiator=4, version=0}={1=125, 4=86, 6=124}, HistoryKey{initiator=2, version=0}={1=125, 4=86, 6=124}}
+13:16:44 - Current amount after removing: 883
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=125, 4=90, 6=124}, HistoryKey{initiator=4, version=0}={1=125, 4=90, 6=124}, HistoryKey{initiator=2, version=0}={1=125, 4=90, 6=124}}
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=113, 4=0, 6=109}, HistoryKey{initiator=4, version=0}={1=113, 4=0, 6=109}, HistoryKey{initiator=2, version=0}={1=113, 4=0, 6=109}}
+13:16:44 - Working on the message [6|33|9|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 892
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=113, 4=0, 6=118}, HistoryKey{initiator=4, version=0}={1=113, 4=0, 6=118}, HistoryKey{initiator=2, version=0}={1=113, 4=0, 6=118}}
+13:16:44 - Got message [6|22|5|TRANSACTION|5]
+13:16:44 - Working on the message [6|22|5|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 897
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=113, 4=0, 6=123}, HistoryKey{initiator=4, version=0}={1=113, 4=0, 6=123}, HistoryKey{initiator=2, version=0}={1=113, 4=0, 6=123}}
+13:16:44 - Got message [1|51|10|TRANSACTION|5]
+13:16:44 - Working on the message [1|51|10|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 907
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=123, 4=0, 6=123}, HistoryKey{initiator=4, version=0}={1=123, 4=0, 6=123}, HistoryKey{initiator=2, version=0}={1=123, 4=0, 6=123}}
+13:16:44 - Sending message [5|54|5|TRANSACTION|4]
+13:16:44 - Got message [1|87|6|TRANSACTION|5]
+13:16:44 - Current amount after removing: 902
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=125, 4=95, 6=124}, HistoryKey{initiator=4, version=0}={1=125, 4=95, 6=124}, HistoryKey{initiator=2, version=0}={1=125, 4=95, 6=124}}
+13:16:44 - Working on the message [1|87|6|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 908
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=129, 4=0, 6=123}, HistoryKey{initiator=4, version=0}={1=129, 4=0, 6=123}, HistoryKey{initiator=2, version=0}={1=129, 4=0, 6=123}}
+13:16:44 - Sending message [5|3|10|TRANSACTION|1]
+13:16:44 - Sending message [5|37|7|TRANSACTION|1]
+13:16:44 - Current amount after removing: 898
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=135, 4=95, 6=124}, HistoryKey{initiator=4, version=0}={1=135, 4=95, 6=124}, HistoryKey{initiator=2, version=0}={1=135, 4=95, 6=124}}
+13:16:44 - Current amount after removing: 891
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=142, 4=95, 6=124}, HistoryKey{initiator=4, version=0}={1=142, 4=95, 6=124}, HistoryKey{initiator=2, version=0}={1=142, 4=95, 6=124}}
+13:16:44 - Sending message [5|5|3|TRANSACTION|4]
+13:16:44 - Sending message [5|9|10|TRANSACTION|4]
+13:16:44 - Current amount after removing: 888
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=142, 4=98, 6=124}, HistoryKey{initiator=4, version=0}={1=142, 4=98, 6=124}, HistoryKey{initiator=2, version=0}={1=142, 4=98, 6=124}}
+13:16:44 - Got message [1|97|3|TRANSACTION|5]
+13:16:44 - Current amount after removing: 878
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=142, 4=108, 6=124}, HistoryKey{initiator=4, version=0}={1=142, 4=108, 6=124}, HistoryKey{initiator=2, version=0}={1=142, 4=108, 6=124}}
+13:16:44 - Working on the message [1|97|3|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Sending message [5|36|2|TRANSACTION|4]
+13:16:44 - Current amount after adding: 881
+13:16:44 - Current amount after removing: 879
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=142, 4=110, 6=124}, HistoryKey{initiator=4, version=0}={1=142, 4=110, 6=124}, HistoryKey{initiator=2, version=0}={1=142, 4=110, 6=124}}
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=132, 4=0, 6=123}, HistoryKey{initiator=4, version=0}={1=132, 4=0, 6=123}, HistoryKey{initiator=2, version=0}={1=132, 4=0, 6=123}}
+13:16:44 - Got message [1|27|3|TRANSACTION|5]
+13:16:44 - Working on the message [1|27|3|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 882
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=135, 4=0, 6=123}, HistoryKey{initiator=4, version=0}={1=135, 4=0, 6=123}, HistoryKey{initiator=2, version=0}={1=135, 4=0, 6=123}}
+13:16:44 - Sending message [5|56|10|TRANSACTION|6]
+13:16:44 - Got message [1|85|9|TRANSACTION|5]
+13:16:44 - Current amount after removing: 872
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=142, 4=110, 6=134}, HistoryKey{initiator=4, version=0}={1=142, 4=110, 6=134}, HistoryKey{initiator=2, version=0}={1=142, 4=110, 6=134}}
+13:16:44 - Working on the message [1|85|9|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 881
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=144, 4=0, 6=123}, HistoryKey{initiator=4, version=0}={1=144, 4=0, 6=123}, HistoryKey{initiator=2, version=0}={1=144, 4=0, 6=123}}
+13:16:44 - Got message [6|75|9|TRANSACTION|5]
+13:16:44 - Working on the message [6|75|9|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 890
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=144, 4=0, 6=132}, HistoryKey{initiator=4, version=0}={1=144, 4=0, 6=132}, HistoryKey{initiator=2, version=0}={1=144, 4=0, 6=132}}
+13:16:44 - Got message [6|36|8|TRANSACTION|5]
+13:16:44 - Working on the message [6|36|8|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 898
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=144, 4=0, 6=140}, HistoryKey{initiator=4, version=0}={1=144, 4=0, 6=140}, HistoryKey{initiator=2, version=0}={1=144, 4=0, 6=140}}
+13:16:44 - Got message [6|99|4|TRANSACTION|5]
+13:16:44 - Working on the message [6|99|4|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 902
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=144, 4=0, 6=144}, HistoryKey{initiator=4, version=0}={1=144, 4=0, 6=144}, HistoryKey{initiator=2, version=0}={1=144, 4=0, 6=144}}
+13:16:44 - Sending message [5|34|7|TRANSACTION|1]
+13:16:44 - Current amount after removing: 895
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=149, 4=110, 6=134}, HistoryKey{initiator=4, version=0}={1=149, 4=110, 6=134}, HistoryKey{initiator=2, version=0}={1=149, 4=110, 6=134}}
+13:16:44 - Sending message [5|30|5|TRANSACTION|1]
+13:16:44 - Current amount after removing: 890
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=110, 6=134}, HistoryKey{initiator=4, version=0}={1=154, 4=110, 6=134}, HistoryKey{initiator=2, version=0}={1=154, 4=110, 6=134}}
+13:16:44 - Sending message [5|23|1|TRANSACTION|6]
+13:16:44 - Current amount after removing: 889
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=110, 6=135}, HistoryKey{initiator=4, version=0}={1=154, 4=110, 6=135}, HistoryKey{initiator=2, version=0}={1=154, 4=110, 6=135}}
+13:16:44 - Got message [1|12|6|TRANSACTION|5]
+13:16:44 - Working on the message [1|12|6|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 895
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=150, 4=0, 6=144}, HistoryKey{initiator=4, version=0}={1=150, 4=0, 6=144}, HistoryKey{initiator=2, version=0}={1=150, 4=0, 6=144}}
+13:16:44 - Sending message [5|66|8|TRANSACTION|4]
+13:16:44 - Current amount after removing: 887
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=118, 6=135}, HistoryKey{initiator=4, version=0}={1=154, 4=118, 6=135}, HistoryKey{initiator=2, version=0}={1=154, 4=118, 6=135}}
+13:16:44 - Sending message [5|21|3|TRANSACTION|4]
+13:16:44 - Current amount after removing: 884
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=121, 6=135}, HistoryKey{initiator=4, version=0}={1=154, 4=121, 6=135}, HistoryKey{initiator=2, version=0}={1=154, 4=121, 6=135}}
+13:16:44 - Got message [1|40|7|TRANSACTION|5]
+13:16:44 - Working on the message [1|40|7|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 891
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=157, 4=0, 6=144}, HistoryKey{initiator=4, version=0}={1=157, 4=0, 6=144}, HistoryKey{initiator=2, version=0}={1=157, 4=0, 6=144}}
+13:16:44 - Got message [1|68|7|TRANSACTION|5]
+13:16:44 - Working on the message [1|68|7|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 898
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=144}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=144}, HistoryKey{initiator=2, version=0}={1=164, 4=0, 6=144}}
+13:16:44 - Sending message [5|70|3|TRANSACTION|4]
+13:16:44 - Current amount after removing: 895
+13:16:44 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=2, version=0}={1=154, 4=124, 6=135}}
+13:16:44 - Got message [6|53|6|TRANSACTION|5]
+13:16:44 - Working on the message [6|53|6|TRANSACTION|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:44 - Current amount after adding: 901
+13:16:44 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=2, version=0}={1=164, 4=0, 6=150}}
+13:16:45 - Got message [4|1|4|TREE_QUERY|5]
+13:16:45 - Working on the message [4|1|4|TREE_QUERY|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:45 - Sending ACCEPT to my new parent: 4
+13:16:45 - SIZES: 3 1
+13:16:45 - LISTS: [1, 4, 6] [4]
+13:16:45 - Got message [6|103|0|TREE_QUERY|5]
+13:16:45 - Working on the message [6|103|0|TREE_QUERY|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:45 - Node from a different region. My region is 4 and the request is sent from region 0. Sending BORDER_REJECT to 6
+13:16:45 - Got message [1|103|0|TREE_QUERY|5]
+13:16:45 - Working on the message [1|103|0|TREE_QUERY|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:45 - Node from a different region. My region is 4 and the request is sent from region 0. Sending BORDER_REJECT to 1
+13:16:46 - Sending message [5|77|4|TREE_QUERY|6]
+13:16:46 - Sending message [5|75||TREE_ACCEPT|4]
+13:16:46 - Sending message [5|78|4|TREE_BORDER_REJECT|6]
+13:16:47 - Sending message [5|76|4|TREE_QUERY|1]
+13:16:47 - Sending message [5|79|4|TREE_BORDER_REJECT|1]
+13:16:47 - Got message [6|105|0|TREE_BORDER_REJECT|5]
+13:16:47 - Working on the message [6|105|0|TREE_BORDER_REJECT|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:47 - SIZES: 3 2
+13:16:47 - LISTS: [1, 4, 6] [4, 6]
+13:16:47 - Got message [1|107|0|TREE_BORDER_REJECT|5]
+13:16:47 - Working on the message [1|107|0|TREE_BORDER_REJECT|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=0}
+13:16:47 - SIZES: 3 3
+13:16:47 - LISTS: [1, 4, 6] [1, 4, 6]
+13:16:47 - I AM A LEAF!
+13:16:47 - Node done.
+13:16:47 - Parent: 4
+13:16:47 - Region: 4
+13:16:47 - Children: []
+13:16:47 - Unrelated: []
+13:16:47 - Border neighbors: [1, 6]
+13:16:48 - Pausing for 5000 ms
+13:16:48 - Sending message [5|81|0|FOUND_REGION|4]
+13:16:48 - Sending message [5|80|0|FOUND_REGION|4]
+13:16:49 - Got message [4|3|4|LY_MARKER|5]
+13:16:49 - Working on the message [4|3|4|LY_MARKER|5], currentState: {0=0, 2=0, 4=0}, messageState: {0=0, 2=0, 4=1}
+13:16:49 - SENDING MY MAPS IN TELL LYSnapshotResult{serventId=5, recordedAmount=901, giveHistory={HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=2, version=0}={1=154, 4=124, 6=135}}, getHistory={HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=2, version=0}={1=164, 4=0, 6=150}}, initiatorVersions={0=0, 2=0, 4=0}}
+13:16:49 - UPDATING THE VALUE OF INIT VERSION + 1
+13:16:49 - NOW MY MAP IS {0=0, 2=0, 4=1}
+13:16:50 - Sending message [5|82||LY_TELL|4]
+13:16:53 - Pausing for 5000 ms
+13:16:58 - Pausing for 5000 ms
+13:17:00 - Got message [4|9||TREE_RESET|5]
+13:17:00 - Working on the message [4|9||TREE_RESET|5], currentState: {0=0, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:00 - Got a message that's not a transaction or a marker. Carrying on.
+13:17:01 - Sending message [5|83||TREE_RESET_CONFIRM|4]
+13:17:03 - Pausing for 1500 ms
+13:17:04 - Pausing for 1500 ms
+13:17:06 - Got message [1|114|0|TREE_QUERY|5]
+13:17:06 - Working on the message [1|114|0|TREE_QUERY|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:06 - Sending ACCEPT to my new parent: 1
+13:17:06 - SIZES: 3 1
+13:17:06 - LISTS: [1, 4, 6] [1]
+13:17:06 - Pausing for 5000 ms
+13:17:06 - Got message [6|114|0|TREE_QUERY|5]
+13:17:06 - Working on the message [6|114|0|TREE_QUERY|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:06 - Already got parent: 1. Sending REJECT to 6
+13:17:06 - Got message [1|168|7|TRANSACTION|5]
+13:17:06 - Working on the message [1|168|7|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:06 - Current amount after adding: 908
+13:17:06 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=7, 4=0, 6=0}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=7, 4=0, 6=0}, HistoryKey{initiator=2, version=0}={1=171, 4=0, 6=150}}
+13:17:06 - Sending message [5|122|1|TRANSACTION|6]
+13:17:06 - Current amount after removing: 907
+13:17:06 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=0, 4=0, 6=1}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=0, 4=0, 6=1}, HistoryKey{initiator=2, version=0}={1=154, 4=124, 6=136}}
+13:17:06 - Sending message [5|130|8|TRANSACTION|6]
+13:17:06 - Current amount after removing: 899
+13:17:06 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=0, 4=0, 6=9}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=0, 4=0, 6=9}, HistoryKey{initiator=2, version=0}={1=154, 4=124, 6=144}}
+13:17:06 - Sending message [5|141|4|TRANSACTION|1]
+13:17:06 - Current amount after removing: 895
+13:17:06 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=4, 4=0, 6=9}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=4, 4=0, 6=9}, HistoryKey{initiator=2, version=0}={1=158, 4=124, 6=144}}
+13:17:06 - Sending message [5|86|0|TREE_QUERY|6]
+13:17:06 - Sending message [5|87|9|TRANSACTION|1]
+13:17:06 - Current amount after removing: 886
+13:17:06 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=13, 4=0, 6=9}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=13, 4=0, 6=9}, HistoryKey{initiator=2, version=0}={1=167, 4=124, 6=144}}
+13:17:06 - Sending message [5|126|10|TRANSACTION|1]
+13:17:06 - Current amount after removing: 876
+13:17:06 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=23, 4=0, 6=9}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=23, 4=0, 6=9}, HistoryKey{initiator=2, version=0}={1=177, 4=124, 6=144}}
+13:17:06 - Sending message [5|127|2|TRANSACTION|1]
+13:17:06 - Current amount after removing: 874
+13:17:06 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=25, 4=0, 6=9}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=25, 4=0, 6=9}, HistoryKey{initiator=2, version=0}={1=179, 4=124, 6=144}}
+13:17:06 - Sending message [5|96|2|TRANSACTION|1]
+13:17:06 - Sending message [5|140|10|TRANSACTION|4]
+13:17:06 - Current amount after removing: 872
+13:17:06 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=27, 4=0, 6=9}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=27, 4=0, 6=9}, HistoryKey{initiator=2, version=0}={1=181, 4=124, 6=144}}
+13:17:06 - Current amount after removing: 862
+13:17:06 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=27, 4=10, 6=9}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=27, 4=10, 6=9}, HistoryKey{initiator=2, version=0}={1=181, 4=134, 6=144}}
+13:17:06 - Sending message [5|85|0|TREE_QUERY|4]
+13:17:06 - Got message [1|196|9|TRANSACTION|5]
+13:17:06 - Working on the message [1|196|9|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:06 - Current amount after adding: 871
+13:17:06 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=16, 4=0, 6=0}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=16, 4=0, 6=0}, HistoryKey{initiator=2, version=0}={1=180, 4=0, 6=150}}
+13:17:06 - Sending message [5|108|1|TRANSACTION|6]
+13:17:06 - Current amount after removing: 870
+13:17:06 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=27, 4=10, 6=10}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=27, 4=10, 6=10}, HistoryKey{initiator=2, version=0}={1=181, 4=134, 6=145}}
+13:17:06 - Sending message [5|154|3|TRANSACTION|6]
+13:17:06 - Current amount after removing: 867
+13:17:06 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=27, 4=10, 6=13}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=27, 4=10, 6=13}, HistoryKey{initiator=2, version=0}={1=181, 4=134, 6=148}}
+13:17:06 - Got message [1|180|5|TRANSACTION|5]
+13:17:06 - Working on the message [1|180|5|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:06 - Current amount after adding: 872
+13:17:06 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=21, 4=0, 6=0}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=21, 4=0, 6=0}, HistoryKey{initiator=2, version=0}={1=185, 4=0, 6=150}}
+13:17:06 - Sending message [5|119|9|TRANSACTION|6]
+13:17:06 - Current amount after removing: 863
+13:17:06 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=27, 4=10, 6=22}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=27, 4=10, 6=22}, HistoryKey{initiator=2, version=0}={1=181, 4=134, 6=157}}
+13:17:06 - Got message [6|140|1|TRANSACTION|5]
+13:17:06 - Working on the message [6|140|1|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:06 - Current amount after adding: 864
+13:17:06 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=21, 4=0, 6=1}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=21, 4=0, 6=1}, HistoryKey{initiator=2, version=0}={1=185, 4=0, 6=151}}
+13:17:06 - Sending message [5|135|5|TRANSACTION|1]
+13:17:06 - Sending message [5|143|2|TRANSACTION|4]
+13:17:06 - Current amount after removing: 859
+13:17:06 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=32, 4=10, 6=22}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=32, 4=10, 6=22}, HistoryKey{initiator=2, version=0}={1=186, 4=134, 6=157}}
+13:17:06 - Current amount after removing: 857
+13:17:06 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=32, 4=12, 6=22}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=32, 4=12, 6=22}, HistoryKey{initiator=2, version=0}={1=186, 4=136, 6=157}}
+13:17:06 - Sending message [5|121|4|TRANSACTION|6]
+13:17:06 - Current amount after removing: 853
+13:17:06 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=32, 4=12, 6=26}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=32, 4=12, 6=26}, HistoryKey{initiator=2, version=0}={1=186, 4=136, 6=161}}
+13:17:06 - Got message [6|208|9|TRANSACTION|5]
+13:17:06 - Working on the message [6|208|9|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:06 - Current amount after adding: 862
+13:17:06 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=21, 4=0, 6=10}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=21, 4=0, 6=10}, HistoryKey{initiator=2, version=0}={1=185, 4=0, 6=160}}
+13:17:07 - Got message [1|200|5|TRANSACTION|5]
+13:17:07 - Working on the message [1|200|5|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 867
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=26, 4=0, 6=10}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=26, 4=0, 6=10}, HistoryKey{initiator=2, version=0}={1=190, 4=0, 6=160}}
+13:17:07 - Sending message [5|98|10|TRANSACTION|1]
+13:17:07 - Current amount after removing: 857
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=42, 4=12, 6=26}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=42, 4=12, 6=26}, HistoryKey{initiator=2, version=0}={1=196, 4=136, 6=161}}
+13:17:07 - Got message [1|140|5|TRANSACTION|5]
+13:17:07 - Working on the message [1|140|5|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 862
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=31, 4=0, 6=10}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=31, 4=0, 6=10}, HistoryKey{initiator=2, version=0}={1=195, 4=0, 6=160}}
+13:17:07 - Sending message [5|155|4|TRANSACTION|6]
+13:17:07 - Got message [6|214|7|TRANSACTION|5]
+13:17:07 - Current amount after removing: 858
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=42, 4=12, 6=30}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=42, 4=12, 6=30}, HistoryKey{initiator=2, version=0}={1=196, 4=136, 6=165}}
+13:17:07 - Working on the message [6|214|7|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 865
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=31, 4=0, 6=17}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=31, 4=0, 6=17}, HistoryKey{initiator=2, version=0}={1=195, 4=0, 6=167}}
+13:17:07 - Sending message [5|128|3|TRANSACTION|4]
+13:17:07 - Sending message [5|145|10|TRANSACTION|6]
+13:17:07 - Sending message [5|88|9|TRANSACTION|4]
+13:17:07 - Current amount after removing: 862
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=42, 4=15, 6=30}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=42, 4=15, 6=30}, HistoryKey{initiator=2, version=0}={1=196, 4=139, 6=165}}
+13:17:07 - Current amount after removing: 853
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=42, 4=24, 6=30}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=42, 4=24, 6=30}, HistoryKey{initiator=2, version=0}={1=196, 4=148, 6=165}}
+13:17:07 - Current amount after removing: 843
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=42, 4=24, 6=40}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=42, 4=24, 6=40}, HistoryKey{initiator=2, version=0}={1=196, 4=148, 6=175}}
+13:17:07 - Sending message [5|89|10|TRANSACTION|1]
+13:17:07 - Current amount after removing: 833
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=52, 4=24, 6=40}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=52, 4=24, 6=40}, HistoryKey{initiator=2, version=0}={1=206, 4=148, 6=175}}
+13:17:07 - Got message [6|187|4|TRANSACTION|5]
+13:17:07 - Working on the message [6|187|4|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 837
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=31, 4=0, 6=21}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=31, 4=0, 6=21}, HistoryKey{initiator=2, version=0}={1=195, 4=0, 6=171}}
+13:17:07 - Got message [1|176|3|TRANSACTION|5]
+13:17:07 - Working on the message [1|176|3|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 840
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=34, 4=0, 6=21}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=34, 4=0, 6=21}, HistoryKey{initiator=2, version=0}={1=198, 4=0, 6=171}}
+13:17:07 - Sending message [5|151|7|TRANSACTION|4]
+13:17:07 - Current amount after removing: 833
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=52, 4=31, 6=40}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=52, 4=31, 6=40}, HistoryKey{initiator=2, version=0}={1=206, 4=155, 6=175}}
+13:17:07 - Sending message [5|116|2|TRANSACTION|4]
+13:17:07 - Sending message [5|94|1|TRANSACTION|1]
+13:17:07 - Current amount after removing: 831
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=52, 4=33, 6=40}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=52, 4=33, 6=40}, HistoryKey{initiator=2, version=0}={1=206, 4=157, 6=175}}
+13:17:07 - Current amount after removing: 830
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=53, 4=33, 6=40}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=53, 4=33, 6=40}, HistoryKey{initiator=2, version=0}={1=207, 4=157, 6=175}}
+13:17:07 - Sending message [5|159|7|TRANSACTION|4]
+13:17:07 - Current amount after removing: 823
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=53, 4=40, 6=40}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=53, 4=40, 6=40}, HistoryKey{initiator=2, version=0}={1=207, 4=164, 6=175}}
+13:17:07 - Sending message [5|150|6|TRANSACTION|4]
+13:17:07 - Current amount after removing: 817
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=53, 4=46, 6=40}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=53, 4=46, 6=40}, HistoryKey{initiator=2, version=0}={1=207, 4=170, 6=175}}
+13:17:07 - Got message [6|176|8|TRANSACTION|5]
+13:17:07 - Working on the message [6|176|8|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 825
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=34, 4=0, 6=29}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=34, 4=0, 6=29}, HistoryKey{initiator=2, version=0}={1=198, 4=0, 6=179}}
+13:17:07 - Got message [6|207|8|TRANSACTION|5]
+13:17:07 - Working on the message [6|207|8|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 833
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=34, 4=0, 6=37}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=34, 4=0, 6=37}, HistoryKey{initiator=2, version=0}={1=198, 4=0, 6=187}}
+13:17:07 - Sending message [5|115|3|TRANSACTION|6]
+13:17:07 - Sending message [5|129|7|TRANSACTION|4]
+13:17:07 - Current amount after removing: 830
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=53, 4=46, 6=43}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=53, 4=46, 6=43}, HistoryKey{initiator=2, version=0}={1=207, 4=170, 6=178}}
+13:17:07 - Current amount after removing: 823
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=53, 4=53, 6=43}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=53, 4=53, 6=43}, HistoryKey{initiator=2, version=0}={1=207, 4=177, 6=178}}
+13:17:07 - Got message [1|139|8|TRANSACTION|5]
+13:17:07 - Working on the message [1|139|8|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 831
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=42, 4=0, 6=37}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=42, 4=0, 6=37}, HistoryKey{initiator=2, version=0}={1=206, 4=0, 6=187}}
+13:17:07 - Sending message [5|132|7|TRANSACTION|1]
+13:17:07 - Current amount after removing: 824
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=60, 4=53, 6=43}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=60, 4=53, 6=43}, HistoryKey{initiator=2, version=0}={1=214, 4=177, 6=178}}
+13:17:07 - Got message [1|124|6|TRANSACTION|5]
+13:17:07 - Working on the message [1|124|6|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 830
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=48, 4=0, 6=37}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=48, 4=0, 6=37}, HistoryKey{initiator=2, version=0}={1=212, 4=0, 6=187}}
+13:17:07 - Sending message [5|158|9|TRANSACTION|4]
+13:17:07 - Current amount after removing: 821
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=60, 4=62, 6=43}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=60, 4=62, 6=43}, HistoryKey{initiator=2, version=0}={1=214, 4=186, 6=178}}
+13:17:07 - Sending message [5|131|8|TRANSACTION|4]
+13:17:07 - Current amount after removing: 813
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=60, 4=70, 6=43}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=60, 4=70, 6=43}, HistoryKey{initiator=2, version=0}={1=214, 4=194, 6=178}}
+13:17:07 - Sending message [5|156|7|TRANSACTION|6]
+13:17:07 - Current amount after removing: 806
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=60, 4=70, 6=50}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=60, 4=70, 6=50}, HistoryKey{initiator=2, version=0}={1=214, 4=194, 6=185}}
+13:17:07 - Sending message [5|106|9|TRANSACTION|6]
+13:17:07 - Sending message [5|146|5|TRANSACTION|1]
+13:17:07 - Current amount after removing: 797
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=60, 4=70, 6=59}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=60, 4=70, 6=59}, HistoryKey{initiator=2, version=0}={1=214, 4=194, 6=194}}
+13:17:07 - Current amount after removing: 792
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=65, 4=70, 6=59}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=65, 4=70, 6=59}, HistoryKey{initiator=2, version=0}={1=219, 4=194, 6=194}}
+13:17:07 - Got message [6|160|8|TRANSACTION|5]
+13:17:07 - Working on the message [6|160|8|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 800
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=48, 4=0, 6=45}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=48, 4=0, 6=45}, HistoryKey{initiator=2, version=0}={1=212, 4=0, 6=195}}
+13:17:07 - Sending message [5|157|7|TRANSACTION|1]
+13:17:07 - Current amount after removing: 793
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=72, 4=70, 6=59}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=72, 4=70, 6=59}, HistoryKey{initiator=2, version=0}={1=226, 4=194, 6=194}}
+13:17:07 - Sending message [5|148|6|TRANSACTION|6]
+13:17:07 - Current amount after removing: 787
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=72, 4=70, 6=65}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=72, 4=70, 6=65}, HistoryKey{initiator=2, version=0}={1=226, 4=194, 6=200}}
+13:17:07 - Got message [6|154|5|TRANSACTION|5]
+13:17:07 - Working on the message [6|154|5|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 792
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=48, 4=0, 6=50}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=48, 4=0, 6=50}, HistoryKey{initiator=2, version=0}={1=212, 4=0, 6=200}}
+13:17:07 - Sending message [5|118|2|TRANSACTION|4]
+13:17:07 - Current amount after removing: 790
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=72, 4=72, 6=65}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=72, 4=72, 6=65}, HistoryKey{initiator=2, version=0}={1=226, 4=196, 6=200}}
+13:17:07 - Got message [6|168|10|TRANSACTION|5]
+13:17:07 - Working on the message [6|168|10|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 800
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=48, 4=0, 6=60}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=48, 4=0, 6=60}, HistoryKey{initiator=2, version=0}={1=212, 4=0, 6=210}}
+13:17:07 - Got message [1|211|8|TRANSACTION|5]
+13:17:07 - Working on the message [1|211|8|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 808
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=56, 4=0, 6=60}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=56, 4=0, 6=60}, HistoryKey{initiator=2, version=0}={1=220, 4=0, 6=210}}
+13:17:07 - Sending message [5|160|7|TRANSACTION|6]
+13:17:07 - Current amount after removing: 801
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=72, 4=72, 6=72}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=72, 4=72, 6=72}, HistoryKey{initiator=2, version=0}={1=226, 4=196, 6=207}}
+13:17:07 - Sending message [5|120|9|TRANSACTION|1]
+13:17:07 - Current amount after removing: 792
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=81, 4=72, 6=72}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=81, 4=72, 6=72}, HistoryKey{initiator=2, version=0}={1=235, 4=196, 6=207}}
+13:17:07 - Got message [1|157|2|TRANSACTION|5]
+13:17:07 - Working on the message [1|157|2|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 794
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=58, 4=0, 6=60}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=58, 4=0, 6=60}, HistoryKey{initiator=2, version=0}={1=222, 4=0, 6=210}}
+13:17:07 - Sending message [5|104|7|TRANSACTION|6]
+13:17:07 - Current amount after removing: 787
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=81, 4=72, 6=79}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=81, 4=72, 6=79}, HistoryKey{initiator=2, version=0}={1=235, 4=196, 6=214}}
+13:17:07 - Got message [1|214|8|TRANSACTION|5]
+13:17:07 - Working on the message [1|214|8|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Sending message [5|84||TREE_ACCEPT|1]
+13:17:07 - Current amount after adding: 795
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=66, 4=0, 6=60}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=66, 4=0, 6=60}, HistoryKey{initiator=2, version=0}={1=230, 4=0, 6=210}}
+13:17:07 - Got message [1|160|10|TRANSACTION|5]
+13:17:07 - Working on the message [1|160|10|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 805
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=76, 4=0, 6=60}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=76, 4=0, 6=60}, HistoryKey{initiator=2, version=0}={1=240, 4=0, 6=210}}
+13:17:07 - Sending message [5|99|6|TRANSACTION|4]
+13:17:07 - Got message [1|197|6|TRANSACTION|5]
+13:17:07 - Current amount after removing: 799
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=81, 4=78, 6=79}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=81, 4=78, 6=79}, HistoryKey{initiator=2, version=0}={1=235, 4=202, 6=214}}
+13:17:07 - Sending message [5|138|7|TRANSACTION|1]
+13:17:07 - Current amount after removing: 792
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=88, 4=78, 6=79}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=88, 4=78, 6=79}, HistoryKey{initiator=2, version=0}={1=242, 4=202, 6=214}}
+13:17:07 - Working on the message [1|197|6|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 798
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=82, 4=0, 6=60}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=82, 4=0, 6=60}, HistoryKey{initiator=2, version=0}={1=246, 4=0, 6=210}}
+13:17:07 - Got message [6|215|9|TRANSACTION|5]
+13:17:07 - Working on the message [6|215|9|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 807
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=82, 4=0, 6=69}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=82, 4=0, 6=69}, HistoryKey{initiator=2, version=0}={1=246, 4=0, 6=219}}
+13:17:07 - Sending message [5|92|4|TRANSACTION|6]
+13:17:07 - Current amount after removing: 803
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=88, 4=78, 6=83}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=88, 4=78, 6=83}, HistoryKey{initiator=2, version=0}={1=242, 4=202, 6=218}}
+13:17:07 - Sending message [5|114|5|TRANSACTION|4]
+13:17:07 - Current amount after removing: 798
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=88, 4=83, 6=83}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=88, 4=83, 6=83}, HistoryKey{initiator=2, version=0}={1=242, 4=207, 6=218}}
+13:17:07 - Sending message [5|162||TREE_REJECT|6]
+13:17:07 - Got message [6|127|2|TRANSACTION|5]
+13:17:07 - Working on the message [6|127|2|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 800
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=82, 4=0, 6=71}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=82, 4=0, 6=71}, HistoryKey{initiator=2, version=0}={1=246, 4=0, 6=221}}
+13:17:07 - Got message [6|134|1|TRANSACTION|5]
+13:17:07 - Working on the message [6|134|1|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 801
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=82, 4=0, 6=72}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=82, 4=0, 6=72}, HistoryKey{initiator=2, version=0}={1=246, 4=0, 6=222}}
+13:17:07 - Got message [1|188|1|TRANSACTION|5]
+13:17:07 - Working on the message [1|188|1|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 802
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=83, 4=0, 6=72}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=83, 4=0, 6=72}, HistoryKey{initiator=2, version=0}={1=247, 4=0, 6=222}}
+13:17:07 - Got message [6|188|3|TRANSACTION|5]
+13:17:07 - Working on the message [6|188|3|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 805
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=83, 4=0, 6=75}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=83, 4=0, 6=75}, HistoryKey{initiator=2, version=0}={1=247, 4=0, 6=225}}
+13:17:07 - Sending message [5|91|2|TRANSACTION|1]
+13:17:07 - Got message [1|128|2|TRANSACTION|5]
+13:17:07 - Current amount after removing: 803
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=90, 4=83, 6=83}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=90, 4=83, 6=83}, HistoryKey{initiator=2, version=0}={1=244, 4=207, 6=218}}
+13:17:07 - Working on the message [1|128|2|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 805
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=85, 4=0, 6=75}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=85, 4=0, 6=75}, HistoryKey{initiator=2, version=0}={1=249, 4=0, 6=225}}
+13:17:07 - Sending message [5|133|6|TRANSACTION|6]
+13:17:07 - Current amount after removing: 799
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=90, 4=83, 6=89}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=90, 4=83, 6=89}, HistoryKey{initiator=2, version=0}={1=244, 4=207, 6=224}}
+13:17:07 - Sending message [5|136|3|TRANSACTION|6]
+13:17:07 - Current amount after removing: 796
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=90, 4=83, 6=92}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=90, 4=83, 6=92}, HistoryKey{initiator=2, version=0}={1=244, 4=207, 6=227}}
+13:17:07 - Got message [1|144|4|TRANSACTION|5]
+13:17:07 - Working on the message [1|144|4|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 800
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=89, 4=0, 6=75}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=89, 4=0, 6=75}, HistoryKey{initiator=2, version=0}={1=253, 4=0, 6=225}}
+13:17:07 - Got message [1|199|3|TRANSACTION|5]
+13:17:07 - Working on the message [1|199|3|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 803
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=92, 4=0, 6=75}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=92, 4=0, 6=75}, HistoryKey{initiator=2, version=0}={1=256, 4=0, 6=225}}
+13:17:07 - Got message [6|148|2|TRANSACTION|5]
+13:17:07 - Working on the message [6|148|2|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 805
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=92, 4=0, 6=77}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=92, 4=0, 6=77}, HistoryKey{initiator=2, version=0}={1=256, 4=0, 6=227}}
+13:17:07 - Sending message [5|125|4|TRANSACTION|4]
+13:17:07 - Current amount after removing: 801
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=90, 4=87, 6=92}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=90, 4=87, 6=92}, HistoryKey{initiator=2, version=0}={1=244, 4=211, 6=227}}
+13:17:07 - Sending message [5|113|1|TRANSACTION|1]
+13:17:07 - Current amount after removing: 800
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=91, 4=87, 6=92}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=91, 4=87, 6=92}, HistoryKey{initiator=2, version=0}={1=245, 4=211, 6=227}}
+13:17:07 - Got message [1|156|6|TRANSACTION|5]
+13:17:07 - Working on the message [1|156|6|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 806
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=98, 4=0, 6=77}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=98, 4=0, 6=77}, HistoryKey{initiator=2, version=0}={1=262, 4=0, 6=227}}
+13:17:07 - Got message [1|163|1|TRANSACTION|5]
+13:17:07 - Working on the message [1|163|1|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 807
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=99, 4=0, 6=77}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=99, 4=0, 6=77}, HistoryKey{initiator=2, version=0}={1=263, 4=0, 6=227}}
+13:17:07 - Got message [6|196|5|TRANSACTION|5]
+13:17:07 - Working on the message [6|196|5|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 812
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=99, 4=0, 6=82}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=99, 4=0, 6=82}, HistoryKey{initiator=2, version=0}={1=263, 4=0, 6=232}}
+13:17:07 - Got message [6|200|8|TRANSACTION|5]
+13:17:07 - Working on the message [6|200|8|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 820
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=99, 4=0, 6=90}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=99, 4=0, 6=90}, HistoryKey{initiator=2, version=0}={1=263, 4=0, 6=240}}
+13:17:07 - Sending message [5|152|5|TRANSACTION|4]
+13:17:07 - Current amount after removing: 815
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=91, 4=92, 6=92}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=91, 4=92, 6=92}, HistoryKey{initiator=2, version=0}={1=245, 4=216, 6=227}}
+13:17:07 - Sending message [5|97|1|TRANSACTION|1]
+13:17:07 - Current amount after removing: 814
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=92, 4=92, 6=92}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=92, 4=92, 6=92}, HistoryKey{initiator=2, version=0}={1=246, 4=216, 6=227}}
+13:17:07 - Sending message [5|161|7|TRANSACTION|6]
+13:17:07 - Current amount after removing: 807
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=92, 4=92, 6=99}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=92, 4=92, 6=99}, HistoryKey{initiator=2, version=0}={1=246, 4=216, 6=234}}
+13:17:07 - Sending message [5|105|4|TRANSACTION|1]
+13:17:07 - Sending message [5|93|4|TRANSACTION|6]
+13:17:07 - Current amount after removing: 803
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=96, 4=92, 6=99}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=96, 4=92, 6=99}, HistoryKey{initiator=2, version=0}={1=250, 4=216, 6=234}}
+13:17:07 - Current amount after removing: 799
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=96, 4=92, 6=103}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=96, 4=92, 6=103}, HistoryKey{initiator=2, version=0}={1=250, 4=216, 6=238}}
+13:17:07 - Got message [6|128|1|TRANSACTION|5]
+13:17:07 - Working on the message [6|128|1|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 800
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=99, 4=0, 6=91}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=99, 4=0, 6=91}, HistoryKey{initiator=2, version=0}={1=263, 4=0, 6=241}}
+13:17:07 - Sending message [5|109|10|TRANSACTION|1]
+13:17:07 - Current amount after removing: 790
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=106, 4=92, 6=103}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=106, 4=92, 6=103}, HistoryKey{initiator=2, version=0}={1=260, 4=216, 6=238}}
+13:17:07 - Got message [6|212|1|TRANSACTION|5]
+13:17:07 - Working on the message [6|212|1|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 791
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=99, 4=0, 6=92}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=99, 4=0, 6=92}, HistoryKey{initiator=2, version=0}={1=263, 4=0, 6=242}}
+13:17:07 - Sending message [5|149|5|TRANSACTION|6]
+13:17:07 - Current amount after removing: 786
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=106, 4=92, 6=108}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=106, 4=92, 6=108}, HistoryKey{initiator=2, version=0}={1=260, 4=216, 6=243}}
+13:17:07 - Got message [1|212|7|TRANSACTION|5]
+13:17:07 - Working on the message [1|212|7|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 793
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=106, 4=0, 6=92}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=106, 4=0, 6=92}, HistoryKey{initiator=2, version=0}={1=270, 4=0, 6=242}}
+13:17:07 - Sending message [5|123|5|TRANSACTION|6]
+13:17:07 - Current amount after removing: 788
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=106, 4=92, 6=113}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=106, 4=92, 6=113}, HistoryKey{initiator=2, version=0}={1=260, 4=216, 6=248}}
+13:17:07 - Got message [6|147|8|TRANSACTION|5]
+13:17:07 - Working on the message [6|147|8|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 796
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=106, 4=0, 6=100}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=106, 4=0, 6=100}, HistoryKey{initiator=2, version=0}={1=270, 4=0, 6=250}}
+13:17:07 - Got message [6|156|3|TRANSACTION|5]
+13:17:07 - Working on the message [6|156|3|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 799
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=106, 4=0, 6=103}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=106, 4=0, 6=103}, HistoryKey{initiator=2, version=0}={1=270, 4=0, 6=253}}
+13:17:07 - Sending message [5|139|9|TRANSACTION|1]
+13:17:07 - Sending message [5|147|9|TRANSACTION|1]
+13:17:07 - Current amount after removing: 790
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=115, 4=92, 6=113}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=115, 4=92, 6=113}, HistoryKey{initiator=2, version=0}={1=269, 4=216, 6=248}}
+13:17:07 - Sending message [5|124|4|TRANSACTION|1]
+13:17:07 - Current amount after removing: 781
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=124, 4=92, 6=113}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=124, 4=92, 6=113}, HistoryKey{initiator=2, version=0}={1=278, 4=216, 6=248}}
+13:17:07 - Current amount after removing: 777
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=128, 4=92, 6=113}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=128, 4=92, 6=113}, HistoryKey{initiator=2, version=0}={1=282, 4=216, 6=248}}
+13:17:07 - Got message [1|136|4|TRANSACTION|5]
+13:17:07 - Working on the message [1|136|4|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 781
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=110, 4=0, 6=103}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=110, 4=0, 6=103}, HistoryKey{initiator=2, version=0}={1=274, 4=0, 6=253}}
+13:17:07 - Got message [6|180|8|TRANSACTION|5]
+13:17:07 - Working on the message [6|180|8|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 789
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=110, 4=0, 6=111}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=110, 4=0, 6=111}, HistoryKey{initiator=2, version=0}={1=274, 4=0, 6=261}}
+13:17:07 - Sending message [5|117|7|TRANSACTION|4]
+13:17:07 - Current amount after removing: 782
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=128, 4=99, 6=113}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=128, 4=99, 6=113}, HistoryKey{initiator=2, version=0}={1=282, 4=223, 6=248}}
+13:17:07 - Sending message [5|100|4|TRANSACTION|6]
+13:17:07 - Current amount after removing: 778
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=128, 4=99, 6=117}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=128, 4=99, 6=117}, HistoryKey{initiator=2, version=0}={1=282, 4=223, 6=252}}
+13:17:07 - Got message [1|137|8|TRANSACTION|5]
+13:17:07 - Working on the message [1|137|8|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 786
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=118, 4=0, 6=111}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=118, 4=0, 6=111}, HistoryKey{initiator=2, version=0}={1=282, 4=0, 6=261}}
+13:17:07 - Got message [1|179|3|TRANSACTION|5]
+13:17:07 - Working on the message [1|179|3|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 789
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=121, 4=0, 6=111}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=121, 4=0, 6=111}, HistoryKey{initiator=2, version=0}={1=285, 4=0, 6=261}}
+13:17:07 - Sending message [5|142|2|TRANSACTION|6]
+13:17:07 - Current amount after removing: 787
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=128, 4=99, 6=119}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=128, 4=99, 6=119}, HistoryKey{initiator=2, version=0}={1=282, 4=223, 6=254}}
+13:17:07 - Got message [6|194|9|TRANSACTION|5]
+13:17:07 - Working on the message [6|194|9|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 796
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=121, 4=0, 6=120}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=121, 4=0, 6=120}, HistoryKey{initiator=2, version=0}={1=285, 4=0, 6=270}}
+13:17:07 - Sending message [5|90|5|TRANSACTION|4]
+13:17:07 - Current amount after removing: 791
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=128, 4=104, 6=119}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=128, 4=104, 6=119}, HistoryKey{initiator=2, version=0}={1=282, 4=228, 6=254}}
+13:17:07 - Sending message [5|103|10|TRANSACTION|4]
+13:17:07 - Current amount after removing: 781
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=128, 4=114, 6=119}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=128, 4=114, 6=119}, HistoryKey{initiator=2, version=0}={1=282, 4=238, 6=254}}
+13:17:07 - Got message [6|167|4|TRANSACTION|5]
+13:17:07 - Working on the message [6|167|4|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 785
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=121, 4=0, 6=124}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=121, 4=0, 6=124}, HistoryKey{initiator=2, version=0}={1=285, 4=0, 6=274}}
+13:17:07 - Sending message [5|95|8|TRANSACTION|4]
+13:17:07 - Current amount after removing: 777
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=128, 4=122, 6=119}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=128, 4=122, 6=119}, HistoryKey{initiator=2, version=0}={1=282, 4=246, 6=254}}
+13:17:07 - Got message [4|12|0|TREE_QUERY|5]
+13:17:07 - Working on the message [4|12|0|TREE_QUERY|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Already got parent: 1. Sending REJECT to 4
+13:17:07 - Sending message [5|144|8|TRANSACTION|4]
+13:17:07 - Current amount after removing: 769
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=128, 4=130, 6=119}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=128, 4=130, 6=119}, HistoryKey{initiator=2, version=0}={1=282, 4=254, 6=254}}
+13:17:07 - Sending message [5|111|5|TRANSACTION|1]
+13:17:07 - Current amount after removing: 764
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=133, 4=130, 6=119}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=133, 4=130, 6=119}, HistoryKey{initiator=2, version=0}={1=287, 4=254, 6=254}}
+13:17:07 - Sending message [5|102|2|TRANSACTION|4]
+13:17:07 - Current amount after removing: 762
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=133, 4=132, 6=119}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=133, 4=132, 6=119}, HistoryKey{initiator=2, version=0}={1=287, 4=256, 6=254}}
+13:17:07 - Sending message [5|134|3|TRANSACTION|6]
+13:17:07 - Got message [6|136|8|TRANSACTION|5]
+13:17:07 - Current amount after removing: 759
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=133, 4=132, 6=122}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=133, 4=132, 6=122}, HistoryKey{initiator=2, version=0}={1=287, 4=256, 6=257}}
+13:17:07 - Working on the message [6|136|8|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 767
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=121, 4=0, 6=132}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=121, 4=0, 6=132}, HistoryKey{initiator=2, version=0}={1=285, 4=0, 6=282}}
+13:17:07 - Sending message [5|153|4|TRANSACTION|1]
+13:17:07 - Current amount after removing: 763
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=137, 4=132, 6=122}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=137, 4=132, 6=122}, HistoryKey{initiator=2, version=0}={1=291, 4=256, 6=257}}
+13:17:07 - Got message [1|177|9|TRANSACTION|5]
+13:17:07 - Working on the message [1|177|9|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 772
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=130, 4=0, 6=132}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=130, 4=0, 6=132}, HistoryKey{initiator=2, version=0}={1=294, 4=0, 6=282}}
+13:17:07 - Sending message [5|110|7|TRANSACTION|4]
+13:17:07 - Sending message [5|112|2|TRANSACTION|1]
+13:17:07 - Current amount after removing: 765
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=137, 4=139, 6=122}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=137, 4=139, 6=122}, HistoryKey{initiator=2, version=0}={1=291, 4=263, 6=257}}
+13:17:07 - Current amount after removing: 763
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=139, 4=139, 6=122}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=139, 4=139, 6=122}, HistoryKey{initiator=2, version=0}={1=293, 4=263, 6=257}}
+13:17:07 - Sending message [5|101|2|TRANSACTION|4]
+13:17:07 - Current amount after removing: 761
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=139, 4=141, 6=122}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=139, 4=141, 6=122}, HistoryKey{initiator=2, version=0}={1=293, 4=265, 6=257}}
+13:17:07 - Sending message [5|137|9|TRANSACTION|4]
+13:17:07 - Current amount after removing: 752
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=139, 4=150, 6=122}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=139, 4=150, 6=122}, HistoryKey{initiator=2, version=0}={1=293, 4=274, 6=257}}
+13:17:07 - Sending message [5|107|2|TRANSACTION|6]
+13:17:07 - Got message [1|203|6|TRANSACTION|5]
+13:17:07 - Current amount after removing: 750
+13:17:07 - Giving away bits, current giveHistory: {HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=139, 4=150, 6=124}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=139, 4=150, 6=124}, HistoryKey{initiator=2, version=0}={1=293, 4=274, 6=259}}
+13:17:07 - Working on the message [1|203|6|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 756
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=136, 4=0, 6=132}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=136, 4=0, 6=132}, HistoryKey{initiator=2, version=0}={1=300, 4=0, 6=282}}
+13:17:07 - Got message [6|174|1|TRANSACTION|5]
+13:17:07 - Working on the message [6|174|1|TRANSACTION|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - Current amount after adding: 757
+13:17:07 - Getting bits, current getHistory: {HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=136, 4=0, 6=133}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=136, 4=0, 6=133}, HistoryKey{initiator=2, version=0}={1=300, 4=0, 6=283}}
+13:17:07 - Got message [4|13||TREE_REJECT|5]
+13:17:07 - Working on the message [4|13||TREE_REJECT|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:07 - SIZES: 3 2
+13:17:07 - LISTS: [1, 4, 6] [1, 4]
+13:17:08 - Got message [6|216||TREE_REJECT|5]
+13:17:08 - Working on the message [6|216||TREE_REJECT|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=1, 2=0, 4=1}
+13:17:08 - SIZES: 3 3
+13:17:08 - LISTS: [1, 4, 6] [1, 4, 6]
+13:17:08 - I AM A LEAF!
+13:17:08 - Node done.
+13:17:08 - Parent: 1
+13:17:08 - Region: 0
+13:17:08 - Children: []
+13:17:08 - Unrelated: [4, 6]
+13:17:08 - Border neighbors: []
+13:17:09 - Sending message [5|163||TREE_REJECT|4]
+13:17:10 - Got message [1|217|0|LY_MARKER|5]
+13:17:10 - Working on the message [1|217|0|LY_MARKER|5], currentState: {0=1, 2=0, 4=1}, messageState: {0=2, 2=0, 4=1}
+13:17:10 - SENDING MY MAPS IN TELL LYSnapshotResult{serventId=5, recordedAmount=757, giveHistory={HistoryKey{initiator=0, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=0, version=1}={1=139, 4=150, 6=124}, HistoryKey{initiator=4, version=0}={1=154, 4=124, 6=135}, HistoryKey{initiator=4, version=1}={1=139, 4=150, 6=124}, HistoryKey{initiator=2, version=0}={1=293, 4=274, 6=259}}, getHistory={HistoryKey{initiator=0, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=0, version=1}={1=136, 4=0, 6=133}, HistoryKey{initiator=4, version=0}={1=164, 4=0, 6=150}, HistoryKey{initiator=4, version=1}={1=136, 4=0, 6=133}, HistoryKey{initiator=2, version=0}={1=300, 4=0, 6=283}}, initiatorVersions={0=1, 2=0, 4=1}}
+13:17:10 - UPDATING THE VALUE OF INIT VERSION + 1
+13:17:10 - NOW MY MAP IS {0=2, 2=0, 4=1}
+13:17:11 - Pausing for 5000 ms
+13:17:11 - Sending message [5|164||LY_TELL|1]
+13:17:16 - Pausing for 5000 ms
+13:17:19 - Got message [1|219||TREE_RESET|5]
+13:17:19 - Working on the message [1|219||TREE_RESET|5], currentState: {0=2, 2=0, 4=1}, messageState: {0=2, 2=0, 4=1}
+13:17:20 - Sending message [5|165||TREE_RESET_CONFIRM|1]
+13:17:21 - Pausing for 5000 ms
+13:17:26 - Stopping...
